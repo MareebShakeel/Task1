@@ -1,0 +1,29 @@
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+form
+{
+    max-width: 500px;
+    margin: 0;
+}
+label
+{
+    font-weight: bold;
+}
+table
+{
+    width: 80%;
+    margin: 20px;
+    border-collapse: collapse;
+}
+th,td
+{
+    border: 2px solid;
+    text-align: center;
+    padding: 10px;
+}
